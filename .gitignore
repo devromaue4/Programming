@@ -14,6 +14,14 @@ $RECYCLE.BIN/
 *.msm
 *.msp
 
+# Ignore project files in the root
+*.suo
+*.opensdf
+*.sdf
+/C++/**/Debug/**
+/CSharp/**/**/bin/**
+/CSharp/**/**/obj/**
+
 # =========================
 # Operating System Files
 # =========================
