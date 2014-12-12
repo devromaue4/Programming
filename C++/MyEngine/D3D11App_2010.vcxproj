@@ -378,8 +378,10 @@
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="D3D11App.cpp" />
+    <ClCompile Include="RenderD3D11.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="RenderD3D11.h" />
     <CLInclude Include="resource.h" />
     <ResourceCompile Include="D3D11App.rc" />
   </ItemGroup>
