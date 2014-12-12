@@ -29,6 +29,13 @@ struct VERTEX
 	XMFLOAT3 Pos;
 };
 
+struct ConstBuffer
+{
+	XMMATRIX mWorld;
+	XMMATRIX mView;
+	XMMATRIX mProjection;
+};
+
 //--------------------------------------------------------------------------------------
 // Global Variables
 //--------------------------------------------------------------------------------------
