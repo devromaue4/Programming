@@ -19,6 +19,7 @@ $RECYCLE.BIN/
 *.opensdf
 *.sdf
 /C++/**/Debug/**
+/C++/**/*sln
 /CSharp/**/**/bin/**
 /CSharp/**/**/obj/**
 
