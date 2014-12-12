@@ -18,8 +18,13 @@ $RECYCLE.BIN/
 *.suo
 *.opensdf
 *.sdf
+*.pdb
+*.ilk
+/C++/MyEngine/Bin/*exe
+/C++/MyEngine/Intermediate/**
+/C++/MyEngine/Engine/Libs/**
+/C++/MyEngine/Launch/ipch/**
 /C++/**/Debug/**
-/C++/**/*sln
 /CSharp/**/**/bin/**
 /CSharp/**/**/obj/**
 

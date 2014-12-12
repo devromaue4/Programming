@@ -285,7 +285,7 @@ HRESULT InitDevice()
 //--------------------------------------------------------------------------------------
 void CleanupDevice()
 {
-	GRenderD3D11->Relese();
+	GRenderD3D11->Release();
 }
 
 

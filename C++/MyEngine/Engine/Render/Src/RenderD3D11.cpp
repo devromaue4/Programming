@@ -80,7 +80,7 @@ bool RenderD3D11::Init(HWND hWnd, UINT Width, UINT Height)
 	return true;
 }
 
-void RenderD3D11::Relese()
+void RenderD3D11::Release()
 {
 	if (m_pImmediateContext) m_pImmediateContext->ClearState();
 

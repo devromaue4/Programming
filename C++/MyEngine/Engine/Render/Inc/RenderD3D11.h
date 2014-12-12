@@ -20,7 +20,7 @@ public:
 	~RenderD3D11();
 
 	bool Init(HWND hWnd, UINT Width, UINT Height);
-	void Relese();
+	void Release();
 
 	ID3D11Device*           GetDevice()           { return m_pd3dDevice; }
 	ID3D11DeviceContext*    GetImmediateContext() { return m_pImmediateContext; }
