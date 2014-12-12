@@ -20,10 +20,6 @@ $RECYCLE.BIN/
 *.sdf
 *.pdb
 *.ilk
-/C++/MyEngine/Bin/*exe
-/C++/MyEngine/Intermediate/**
-/C++/MyEngine/Engine/Libs/**
-/C++/MyEngine/Launch/ipch/**
 /C++/**/Debug/**
 /CSharp/**/**/bin/**
 /CSharp/**/**/obj/**
