@@ -15,17 +15,22 @@ namespace GenericPrimAndProperCarEvents
             Car car = new Car("SlugBug", 100, 10);
 
             // Register event handlers.
-            car.AboutToBlow += CarAboutToBlow;
-            //car.Exploded += CarExploded;
+            //car.AboutToBlow += CarAboutToBlow;
+            
+            // Использовать лямбда-выражения
+            car.AboutToBlow += (sender, e) => { Console.WriteLine(e.msg); };
+            car.Exploded += (sender, e) => { Console.WriteLine(e.msg); };
 
-            EventHandler<CarEventArgs> d = new EventHandler<CarEventArgs>(CarExploded);
-            car.Exploded += d;
+            //car.Exploded += CarExploded;
+            
+            //EventHandler<CarEventArgs> d = new EventHandler<CarEventArgs>(CarExploded);
+            //car.Exploded += d;
 
             Console.WriteLine("***** Speeding up *****");
             for (int i = 0; i < 6; i++)
                 car.Accelerate(20);
 
-            car.Exploded -= CarExploded;
+            //car.Exploded -= CarExploded;
 
             Console.WriteLine("\n***** Speeding up *****");
             for (int i = 0; i < 6; i++)
