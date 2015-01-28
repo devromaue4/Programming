@@ -50,16 +50,14 @@
     <StartupObject />
   </PropertyGroup>
   <ItemGroup>
-    <Reference Include="Photon3DotNet, Version=4.0.0.4, Culture=neutral, processorArchitecture=MSIL">
-      <SpecificVersion>False</SpecificVersion>
-      <HintPath>..\..\ThirdParty\Photon-Realtime-DotNet-Sdk_v4-0-0-4\libs\Debug\Photon3DotNet.dll</HintPath>
+    <Reference Include="Photon3DotNet">
+      <HintPath>..\..\ThirdParty\Photon\Photon-Realtime-DotNet-Sdk_v4-0-0-4\libs\Debug\Photon3DotNet.dll</HintPath>
     </Reference>
     <Reference Include="PhotonChatApi">
-      <HintPath>..\..\ThirdParty\Photon-Realtime-DotNet-Sdk_v4-0-0-4\PhotonChatApi\bin\Debug\PhotonChatApi.dll</HintPath>
+      <HintPath>..\..\ThirdParty\Photon\Photon-Realtime-DotNet-Sdk_v4-0-0-4\PhotonChatApi\bin\Debug\PhotonChatApi.dll</HintPath>
     </Reference>
-    <Reference Include="PhotonLoadbalancingApi, Version=4.0.0.4, Culture=neutral, processorArchitecture=MSIL">
-      <SpecificVersion>False</SpecificVersion>
-      <HintPath>..\..\ThirdParty\Photon-Realtime-DotNet-Sdk_v4-0-0-4\libs\Debug\PhotonLoadbalancingApi.dll</HintPath>
+    <Reference Include="PhotonLoadbalancingApi">
+      <HintPath>..\..\ThirdParty\Photon\Photon-Realtime-DotNet-Sdk_v4-0-0-4\libs\Debug\PhotonLoadbalancingApi.dll</HintPath>
     </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
