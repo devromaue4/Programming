@@ -1,0 +1,14 @@
+C:\GitHub\Programming\ThirdParty\Photon-Realtime-DotNet-Sdk_v4-0-0-4\demo-loadbalancing\bin\Debug\demo-loadbalancing.exe
+C:\GitHub\Programming\ThirdParty\Photon-Realtime-DotNet-Sdk_v4-0-0-4\demo-loadbalancing\bin\Debug\demo-loadbalancing.pdb
+C:\GitHub\Programming\ThirdParty\Photon-Realtime-DotNet-Sdk_v4-0-0-4\demo-loadbalancing\bin\Debug\Photon3DotNet.dll
+C:\GitHub\Programming\ThirdParty\Photon-Realtime-DotNet-Sdk_v4-0-0-4\demo-loadbalancing\bin\Debug\PhotonLoadbalancingApi.dll
+C:\GitHub\Programming\ThirdParty\Photon-Realtime-DotNet-Sdk_v4-0-0-4\demo-loadbalancing\bin\Debug\PhotonLoadbalancingApi.pdb
+C:\GitHub\Programming\ThirdParty\Photon-Realtime-DotNet-Sdk_v4-0-0-4\demo-loadbalancing\bin\Debug\PhotonLoadbalancingApi.xml
+C:\GitHub\Programming\ThirdParty\Photon-Realtime-DotNet-Sdk_v4-0-0-4\demo-loadbalancing\bin\Debug\Photon3DotNet.pdb
+C:\GitHub\Programming\ThirdParty\Photon-Realtime-DotNet-Sdk_v4-0-0-4\demo-loadbalancing\bin\Debug\Photon3DotNet.xml
+C:\GitHub\Programming\ThirdParty\Photon-Realtime-DotNet-Sdk_v4-0-0-4\demo-loadbalancing\obj\Debug\demo-loadbalancing.csprojResolveAssemblyReference.cache
+C:\GitHub\Programming\ThirdParty\Photon-Realtime-DotNet-Sdk_v4-0-0-4\demo-loadbalancing\obj\Debug\demo_loadbalancing.Form1.resources
+C:\GitHub\Programming\ThirdParty\Photon-Realtime-DotNet-Sdk_v4-0-0-4\demo-loadbalancing\obj\Debug\demo_loadbalancing.Properties.Resources.resources
+C:\GitHub\Programming\ThirdParty\Photon-Realtime-DotNet-Sdk_v4-0-0-4\demo-loadbalancing\obj\Debug\demo-loadbalancing.csproj.GenerateResource.Cache
+C:\GitHub\Programming\ThirdParty\Photon-Realtime-DotNet-Sdk_v4-0-0-4\demo-loadbalancing\obj\Debug\demo-loadbalancing.exe
+C:\GitHub\Programming\ThirdParty\Photon-Realtime-DotNet-Sdk_v4-0-0-4\demo-loadbalancing\obj\Debug\demo-loadbalancing.pdb

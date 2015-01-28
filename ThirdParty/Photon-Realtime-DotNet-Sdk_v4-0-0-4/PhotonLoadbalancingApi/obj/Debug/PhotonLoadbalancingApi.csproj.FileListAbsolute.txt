@@ -1,0 +1,6 @@
+C:\GitHub\Programming\ThirdParty\Photon-Realtime-DotNet-Sdk_v4-0-0-4\libs\Debug\PhotonLoadbalancingApi.XML
+C:\GitHub\Programming\ThirdParty\Photon-Realtime-DotNet-Sdk_v4-0-0-4\libs\Debug\PhotonLoadbalancingApi.dll
+C:\GitHub\Programming\ThirdParty\Photon-Realtime-DotNet-Sdk_v4-0-0-4\libs\Debug\PhotonLoadbalancingApi.pdb
+C:\GitHub\Programming\ThirdParty\Photon-Realtime-DotNet-Sdk_v4-0-0-4\PhotonLoadbalancingApi\obj\Debug\PhotonLoadbalancingApi.csprojResolveAssemblyReference.cache
+C:\GitHub\Programming\ThirdParty\Photon-Realtime-DotNet-Sdk_v4-0-0-4\PhotonLoadbalancingApi\obj\Debug\PhotonLoadbalancingApi.dll
+C:\GitHub\Programming\ThirdParty\Photon-Realtime-DotNet-Sdk_v4-0-0-4\PhotonLoadbalancingApi\obj\Debug\PhotonLoadbalancingApi.pdb

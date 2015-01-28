@@ -21,9 +21,13 @@ $RECYCLE.BIN/
 *.pdb
 *.ilk
 /C++/**/Debug/**
+#/C++/**/Binaries/*.exe
+/C++/**/Binaries/*.ilk
+/C++/**/Binaries/*.pdb
 /CSharp/**/**/bin/**
 /CSharp/**/**/obj/**
-
+/CSharp/**/bin/**
+/CSharp/**/obj/**
 # =========================
 # Operating System Files
 # =========================
@@ -36,7 +40,8 @@ $RECYCLE.BIN/
 .LSOverride
 
 # Icon must end with two \r
-Icon
+Icon
+
 
 # Thumbnails
 ._*

@@ -1,0 +1,11 @@
+C:\GitHub\Programming\ThirdParty\Photon-Realtime-DotNet-Sdk_v4-0-0-4\demo-particle-logic\bin\Debug\demo-particle-logic.dll
+C:\GitHub\Programming\ThirdParty\Photon-Realtime-DotNet-Sdk_v4-0-0-4\demo-particle-logic\bin\Debug\demo-particle-logic.pdb
+C:\GitHub\Programming\ThirdParty\Photon-Realtime-DotNet-Sdk_v4-0-0-4\demo-particle-logic\bin\Debug\Photon3DotNet.dll
+C:\GitHub\Programming\ThirdParty\Photon-Realtime-DotNet-Sdk_v4-0-0-4\demo-particle-logic\bin\Debug\PhotonLoadbalancingApi.dll
+C:\GitHub\Programming\ThirdParty\Photon-Realtime-DotNet-Sdk_v4-0-0-4\demo-particle-logic\bin\Debug\PhotonLoadbalancingApi.pdb
+C:\GitHub\Programming\ThirdParty\Photon-Realtime-DotNet-Sdk_v4-0-0-4\demo-particle-logic\bin\Debug\PhotonLoadbalancingApi.xml
+C:\GitHub\Programming\ThirdParty\Photon-Realtime-DotNet-Sdk_v4-0-0-4\demo-particle-logic\bin\Debug\Photon3DotNet.pdb
+C:\GitHub\Programming\ThirdParty\Photon-Realtime-DotNet-Sdk_v4-0-0-4\demo-particle-logic\bin\Debug\Photon3DotNet.xml
+C:\GitHub\Programming\ThirdParty\Photon-Realtime-DotNet-Sdk_v4-0-0-4\demo-particle-logic\obj\Debug\demo-particle-logic.csprojResolveAssemblyReference.cache
+C:\GitHub\Programming\ThirdParty\Photon-Realtime-DotNet-Sdk_v4-0-0-4\demo-particle-logic\obj\Debug\demo-particle-logic.dll
+C:\GitHub\Programming\ThirdParty\Photon-Realtime-DotNet-Sdk_v4-0-0-4\demo-particle-logic\obj\Debug\demo-particle-logic.pdb

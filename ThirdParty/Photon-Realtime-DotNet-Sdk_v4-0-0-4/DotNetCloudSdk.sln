@@ -1,0 +1,57 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{24837268-7BFD-47C1-BD1C-13EB72FDCD0B}"
+	ProjectSection(SolutionItems) = preProject
+		readme.txt = readme.txt
+		readme_chat.txt = readme_chat.txt
+		release_history.txt = release_history.txt
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "demo-loadbalancing", "demo-loadbalancing\demo-loadbalancing.csproj", "{660C6CAD-F22A-43F6-AD7F-FB52054BBC65}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PhotonLoadbalancingApi", "PhotonLoadbalancingApi\PhotonLoadbalancingApi.csproj", "{BCDFE568-BB79-47E2-959A-4CC23C68DABA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "demo-particle-logic", "demo-particle-logic\demo-particle-logic.csproj", "{D7F13F45-546A-47EB-AB75-1A030362A09F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "demo-particle-form", "demo-particle-form\demo-particle-form.csproj", "{5F5CEA40-BB38-4A1B-A472-D034956C0FD8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PhotonChatApi", "PhotonChatApi\PhotonChatApi.csproj", "{331C9136-A1AD-4FD7-BB87-0990A3FD422D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "demo-chat-console", "demo-chat-console\demo-chat-console.csproj", "{F62F51D2-8C41-489D-9EF3-3A19AD39D0AB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{660C6CAD-F22A-43F6-AD7F-FB52054BBC65}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{660C6CAD-F22A-43F6-AD7F-FB52054BBC65}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{660C6CAD-F22A-43F6-AD7F-FB52054BBC65}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{660C6CAD-F22A-43F6-AD7F-FB52054BBC65}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BCDFE568-BB79-47E2-959A-4CC23C68DABA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BCDFE568-BB79-47E2-959A-4CC23C68DABA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BCDFE568-BB79-47E2-959A-4CC23C68DABA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BCDFE568-BB79-47E2-959A-4CC23C68DABA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D7F13F45-546A-47EB-AB75-1A030362A09F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D7F13F45-546A-47EB-AB75-1A030362A09F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D7F13F45-546A-47EB-AB75-1A030362A09F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D7F13F45-546A-47EB-AB75-1A030362A09F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5F5CEA40-BB38-4A1B-A472-D034956C0FD8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F5CEA40-BB38-4A1B-A472-D034956C0FD8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5F5CEA40-BB38-4A1B-A472-D034956C0FD8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5F5CEA40-BB38-4A1B-A472-D034956C0FD8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{331C9136-A1AD-4FD7-BB87-0990A3FD422D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{331C9136-A1AD-4FD7-BB87-0990A3FD422D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{331C9136-A1AD-4FD7-BB87-0990A3FD422D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{331C9136-A1AD-4FD7-BB87-0990A3FD422D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F62F51D2-8C41-489D-9EF3-3A19AD39D0AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F62F51D2-8C41-489D-9EF3-3A19AD39D0AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F62F51D2-8C41-489D-9EF3-3A19AD39D0AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F62F51D2-8C41-489D-9EF3-3A19AD39D0AB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

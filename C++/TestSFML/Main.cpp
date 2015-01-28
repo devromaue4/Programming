@@ -41,6 +41,7 @@ public:
 		FRect = sf::FloatRect(0, 0, 40, 50);
 		dx = dy = 0.0f;
 		fCurrentFrame = 0.0f;
+		//bOnGround = false;
 
 		// pos
 		FRect.left = 100;
@@ -79,6 +80,10 @@ public:
 		SSprite.setPosition(FRect.left - g_fOffsetX, FRect.top - g_fOffsetY);
 
 		dx = 0;
+
+		// test
+		//SSprite.setTextureRect(sf::IntRect(40 * int(fCurrentFrame), 244, 40, 50));
+		//SSprite.setPosition(FRect.left, FRect.top);
 	}
 
 	void Collision(int dir)
@@ -117,8 +122,8 @@ int main()
 {
 	sf::RenderWindow AppWindow(sf::VideoMode(g_WndWidth, g_WndHeight), "Test - SFML");
 
-	sf::CircleShape Circle(100.0f);
-	Circle.setFillColor(sf::Color::Green);
+	//sf::CircleShape Circle(100.0f);
+	//Circle.setFillColor(sf::Color::Green);
 
 	sf::Texture tx;
 	tx.loadFromFile("..\\Data\\fang.png");

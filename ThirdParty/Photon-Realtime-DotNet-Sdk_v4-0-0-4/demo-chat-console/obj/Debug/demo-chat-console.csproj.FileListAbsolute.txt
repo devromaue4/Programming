@@ -1,0 +1,10 @@
+C:\GitHub\Programming\ThirdParty\Photon-Realtime-DotNet-Sdk_v4-0-0-4\demo-chat-console\bin\Debug\demo-chat-console.exe
+C:\GitHub\Programming\ThirdParty\Photon-Realtime-DotNet-Sdk_v4-0-0-4\demo-chat-console\bin\Debug\demo-chat-console.pdb
+C:\GitHub\Programming\ThirdParty\Photon-Realtime-DotNet-Sdk_v4-0-0-4\demo-chat-console\bin\Debug\Photon3DotNet.dll
+C:\GitHub\Programming\ThirdParty\Photon-Realtime-DotNet-Sdk_v4-0-0-4\demo-chat-console\bin\Debug\PhotonChatApi.dll
+C:\GitHub\Programming\ThirdParty\Photon-Realtime-DotNet-Sdk_v4-0-0-4\demo-chat-console\bin\Debug\PhotonChatApi.pdb
+C:\GitHub\Programming\ThirdParty\Photon-Realtime-DotNet-Sdk_v4-0-0-4\demo-chat-console\bin\Debug\Photon3DotNet.pdb
+C:\GitHub\Programming\ThirdParty\Photon-Realtime-DotNet-Sdk_v4-0-0-4\demo-chat-console\bin\Debug\Photon3DotNet.xml
+C:\GitHub\Programming\ThirdParty\Photon-Realtime-DotNet-Sdk_v4-0-0-4\demo-chat-console\obj\Debug\demo-chat-console.csprojResolveAssemblyReference.cache
+C:\GitHub\Programming\ThirdParty\Photon-Realtime-DotNet-Sdk_v4-0-0-4\demo-chat-console\obj\Debug\demo-chat-console.exe
+C:\GitHub\Programming\ThirdParty\Photon-Realtime-DotNet-Sdk_v4-0-0-4\demo-chat-console\obj\Debug\demo-chat-console.pdb

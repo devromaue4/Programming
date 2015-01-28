@@ -1,0 +1,8 @@
+C:\GitHub\Programming\ThirdParty\Photon-Realtime-DotNet-Sdk_v4-0-0-4\PhotonChatApi\bin\Debug\PhotonChatApi.dll
+C:\GitHub\Programming\ThirdParty\Photon-Realtime-DotNet-Sdk_v4-0-0-4\PhotonChatApi\bin\Debug\PhotonChatApi.pdb
+C:\GitHub\Programming\ThirdParty\Photon-Realtime-DotNet-Sdk_v4-0-0-4\PhotonChatApi\bin\Debug\Photon3DotNet.dll
+C:\GitHub\Programming\ThirdParty\Photon-Realtime-DotNet-Sdk_v4-0-0-4\PhotonChatApi\bin\Debug\Photon3DotNet.pdb
+C:\GitHub\Programming\ThirdParty\Photon-Realtime-DotNet-Sdk_v4-0-0-4\PhotonChatApi\bin\Debug\Photon3DotNet.xml
+C:\GitHub\Programming\ThirdParty\Photon-Realtime-DotNet-Sdk_v4-0-0-4\PhotonChatApi\obj\Debug\PhotonChatApi.csprojResolveAssemblyReference.cache
+C:\GitHub\Programming\ThirdParty\Photon-Realtime-DotNet-Sdk_v4-0-0-4\PhotonChatApi\obj\Debug\PhotonChatApi.dll
+C:\GitHub\Programming\ThirdParty\Photon-Realtime-DotNet-Sdk_v4-0-0-4\PhotonChatApi\obj\Debug\PhotonChatApi.pdb
