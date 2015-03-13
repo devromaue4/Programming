@@ -21,6 +21,7 @@ $RECYCLE.BIN/
 *.pdb
 *.ilk
 /C++/**/Debug/**
+/C++/**/Release/**
 #/C++/**/Binaries/*.exe
 /C++/**/Binaries/*.ilk
 /C++/**/Binaries/*.pdb
