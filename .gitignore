@@ -22,7 +22,7 @@ $RECYCLE.BIN/
 *.ilk
 /C++/**/Debug/**
 /C++/**/Release/**
-/C++/**/Binaries/*.exe
+#/C++/**/Binaries/*.exe
 /C++/**/Binaries/*.dll
 /C++/**/Binaries/*.ilk
 /C++/**/Binaries/*.pdb
