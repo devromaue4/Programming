@@ -45,7 +45,7 @@ int main()
 	{
 		for (size_t i = 0; i < count / kItemsPerBucket; i += kItemsPerBucket)
 		{
-			_mm_prefetch(reinterpret_cast<const char*>(dynamicRefs)+kItemsPerBucket * sizeof(int), _MM_HINT_T0);
+			_mm_prefetch(reinterpret_cast<const char*>(dynamicRefs) + i + kItemsPerBucket * sizeof(int), _MM_HINT_T0);
 
 			for (size_t k = 0; k < kItemsPerBucket; ++k)
 			{
@@ -68,7 +68,7 @@ int main()
 	{
 		for (size_t i = 0; i < count / kItemsPerBucket2; i += kItemsPerBucket2)
 		{
-			_mm_prefetch(reinterpret_cast<const char*>(dynamicRefs) + kItemsPerBucket2 * sizeof(int), _MM_HINT_T0);
+			_mm_prefetch(reinterpret_cast<const char*>(dynamicRefs) + i + kItemsPerBucket2 * sizeof(int), _MM_HINT_T0);
 			for (size_t k = 0; k < kItemsPerBucket2; ++k)
 			{
 				(*dynamicRefs[i + k])++;
